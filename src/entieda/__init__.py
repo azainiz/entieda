@@ -1,1 +1,1 @@
-from .entieda import haha
+from entieda.entieda import haha
